@@ -1,9 +1,9 @@
 ---
 title: "Introduction"
-teaching: 0
-exercises: 0
+teaching: 40
+exercises: 15
 questions:
-- "Key question"
+- "What is the shell?"
 objectives:
 - Understand what the command line is
 - Understand why the command line is useful
@@ -83,6 +83,7 @@ internet access, because you're going to get it off the web.
 
 We're going to be working with data on our remote server.
 
+------------ Which server? Explain how to logging
 
 After logging on, let's check out the example data.
 
